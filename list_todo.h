@@ -11,9 +11,9 @@ class List: public Container{
       // Your code here
     }
     List(List& l){
-      // Your code here
+      // Your code here hello world
     }
-    ~List(){
+    ~List(){}
       // Your code here
     }
     void add(int v){
